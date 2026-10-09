@@ -116,7 +116,7 @@
  
  
 
- ![image](https://github.com/bsanjaykumar560/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/145954153/91ac9504-1a97-45f8-850a-70e511a196bc)
+<img width="1514" height="1039" alt="Mechanical Flange Blueprint with Dimensions" src="https://github.com/user-attachments/assets/377e2695-7b8f-4464-a36c-998b165206d3" />
 
 
  
